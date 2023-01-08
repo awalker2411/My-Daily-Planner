@@ -20,6 +20,9 @@ Use this planner to add important events to your daily work schedule.
 <br>THEN the text for that event is saved in local storage
 <br>WHEN I refresh the page
 <br>THEN the saved events persist
+![dailyPlanner1](https://user-images.githubusercontent.com/120272622/211216830-350c4716-2ed3-4de0-8ed5-fa86b44d440e.PNG)
+![dailyPlanner2](https://user-images.githubusercontent.com/120272622/211216836-3131bc8c-fd1a-47cf-85a0-f049ba9c4f8b.PNG)
+![dailyPlanner3](https://user-images.githubusercontent.com/120272622/211216841-be39d296-8034-49ae-a0fb-222a1259af7d.PNG)
 
 GitHub Repository Link: https://github.com/awalker2411/My-Daily-Planner
 
