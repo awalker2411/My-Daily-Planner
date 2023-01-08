@@ -23,7 +23,7 @@ Use this planner to add important events to your daily work schedule.
 
 GitHub Repository Link: https://github.com/awalker2411/My-Daily-Planner
 
-Live URL: 
+Live URL: https://awalker2411.github.io/My-Daily-Planner/
 
 Thank you!
 
